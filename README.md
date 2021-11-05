@@ -11,5 +11,11 @@ How to Use?
 
 create an electron app and copy files in your project
 ###### Then Rename name variable in name.js(write you system name)
-
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 ###### *This is not good in Web
