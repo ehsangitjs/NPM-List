@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: roboto;
+}
+body{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: url('npm.ico');
+    background-position: center;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+.npm{
+    background: linear-gradient(to right,rgb(240, 193, 39,70%),rgb(212, 255, 20,70%));
+    width: fit-content;
+    height: fit-content;
+    padding: 5px 4px;
+    border-radius: 10px;
+    font-size: 30px;
+    margin: 20px;
+    box-shadow: 2px 2px 5px black;
+}

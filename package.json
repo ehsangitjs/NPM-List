@@ -1,0 +1,16 @@
+{
+  "name": "npm-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ./",
+    "test": "start ./index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^15.3.0",
+    "shelljs": "^0.8.4"
+  }
+}
