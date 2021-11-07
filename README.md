@@ -4,7 +4,7 @@ This is a Electron app
 
 ![Screenshot](Screenshot.png)
 
-### This app says NPM Packages.
+### This app say NPM Packages.
 
 How to Use?
 -----------
