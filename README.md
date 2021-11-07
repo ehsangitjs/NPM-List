@@ -12,5 +12,6 @@ How to Use?
 create an electron app and copy files in your project
 ```diff
 - Then Rename "name" variable in name.js(write you system name)
++ install shelljs
 ```
 ###### *This is not good in Web
